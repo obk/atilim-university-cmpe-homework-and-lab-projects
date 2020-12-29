@@ -1,7 +1,3 @@
-/*
-name: bahadir kundak
-number: 17243510020
-*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
